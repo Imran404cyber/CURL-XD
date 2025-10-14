@@ -1,10 +1,10 @@
 # COMMAND TYPE ->
-**CURL Random and file Cloning Tools**
+- **CURL Random and file Cloning Tools**
 
 # ABOUT
-**Developer**: ImRaN
+- **Developer**: ImRaN
 
-**If any errors or problems occur while running the tool, you can contact the admins and moderators**
+- **If any errors or problems occur while running the tool, you can contact the admins and moderators**
 
 # Contact
 - **Facebook**: [ImRaN](https://www.facebook.com/share/17Py3fW651/)
