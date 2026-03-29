@@ -1,4 +1,4 @@
-#!/data/data/com.termux/files/usr/bin/python3.12
+#!/data/data/com.termux/files/usr/bin/python3.13
 # -*- coding: utf-8 -*-
 import os
 import subprocess
