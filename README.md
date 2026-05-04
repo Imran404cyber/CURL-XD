@@ -32,6 +32,10 @@
   <img src="https://komarev.com/ghpvc/?username=Imran404cyber&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Imran404cyber&style=flat-square&color=blue"/>
+  <img src="https://komarev.com/ghpvc/?username=Imran404cyber&style=flat-square&color=red"/>
+</p>
 
 
 # COMMAND TYPE ->
