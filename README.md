@@ -52,12 +52,12 @@ pip install -r requirements
 </div>
 <p align="center">
   <a href="https://www.facebook.com/curl.xd">
-  <img src="https://raw.githubusercontent.com/Imran404cyber/maintenance/blob/main/assests/Rainbow.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/Imran404cyber/maintenance/main/assests/Rainbow.gif" width="100%">
   </a>
 </p>
  
 <div align="center">
-  <a href="https://www.facebook.com/shahmakhdumshajonofficial">
+  <a href="https://www.facebook.com/curl.xd">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="30" alt="python logo" />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" width="30" alt="c++ logo" />
@@ -72,7 +72,7 @@ pip install -r requirements
  
 <p align="center">
   <a href="https://www.facebook.com/curl.xd">
-  <img src="https://raw.githubusercontent.com/Imran404cyber/maintenance/blob/main/assests/Rainbow.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/Imran404cyber/maintenance/main/assests/Rainbow.gif" width="100%">
   </a>
 </p>
  
@@ -84,13 +84,13 @@ pip install -r requirements
  
 <p align="center">
   <a href="https://www.facebook.com/curl.xd">
-  <img src="https://raw.githubusercontent.com/Imran404cyber/maintenance/blob/main/assests/Rainbow.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/Imran404cyber/maintenance/main/assests/Rainbow.gif" width="100%">
   </a>
 </p>
  
 <p align="center">
   <a href="https://www.facebook.com/curl.xd">
-  <img src="https://raw.githubusercontent.com/Imran404cyber/maintenance/blob/main/assests/thank_you.jpg" width="100%">
+  <img src="https://raw.githubusercontent.com/Imran404cyber/maintenance/main/assests/thank_you.jpg" width="100%">
   </a>
 </p>
  
