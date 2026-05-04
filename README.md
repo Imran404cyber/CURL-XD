@@ -6,6 +6,35 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Welcome+to+My+Profile;Imran+Here;Python+%7C+C%2B%2B+%7C+JS+Developer;Always+Learning+New+Things" />
 </p>
 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Imran404cyber&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imran404cyber&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Imran404cyber&theme=tokyonight" />
+</p>
+
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</p>
+
+<h2 align="center">⚒️ Skills</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,git,github,linux" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Imran404cyber&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
+
+<h3 align="center">✨ Thanks for visiting my profile ✨</h3>
+<img src="https://raw.githubusercontent.com/Imran404cyber/maintenance/main/assests/Rainbow.gif">
+
+
 # COMMAND TYPE ->
 - **CURL Number,File,Old,Instagram Cloning Tools**
 
