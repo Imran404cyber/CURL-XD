@@ -7,6 +7,7 @@
 - **If any errors or problems occur while running the tool, you can contact the admins and moderators**
 
 # Contact
+- **Telegram**: [![Telegram](https://img.shields.io/badge/💬_Chat_on_Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=121212&color=26A5E4&logoWidth=20)](https://t.me/CURLXD)
 - **Facebook**: [ImRaN](https://www.facebook.com/itsmeimranbro)
 - **WhatsApp**: [CURL-XD](https://wa.me/+8801854070127)
 
