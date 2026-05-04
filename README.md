@@ -27,12 +27,11 @@
   <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,git,github,linux" />
 </p>
 
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Imran404cyber&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
 
-<h3 align="center">✨ Thanks for visiting my profile ✨</h3>
-<img src="https://raw.githubusercontent.com/Imran404cyber/maintenance/main/assests/Rainbow.gif">
 
 
 # COMMAND TYPE ->
@@ -93,33 +92,6 @@ pip install -r requirements
   </a>
 </p>
  
-<div align="center">
-  <a href="https://www.facebook.com/curl.xd">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
-  </a>
-</div>
- 
-<p align="center">
-  <a href="https://www.facebook.com/curl.xd">
-  <img src="https://raw.githubusercontent.com/Imran404cyber/maintenance/main/assests/Rainbow.gif" width="100%">
-  </a>
-</p>
- 
-<div align="center">
-  <a href="https://www.facebook.com/curl.xd">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-  </a>
-</div>
- 
-<p align="center">
-  <a href="https://www.facebook.com/curl.xd">
-  <img src="https://raw.githubusercontent.com/Imran404cyber/maintenance/main/assests/Rainbow.gif" width="100%">
-  </a>
-</p>
  
 <p align="center">
   <a href="https://www.facebook.com/curl.xd">
