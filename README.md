@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Welcome+to+My+Profile;Imran+Here;Python+%7C+C%2B%2B+%7C+JS+Developer;Always+Learning+New+Things" />
+</p>
+
 # COMMAND TYPE ->
 - **CURL Number,File,Old,Instagram Cloning Tools**
 
