@@ -8,10 +8,10 @@
 
 # Contact
 
-[![Telegram](https://img.shields.io/badge/💬_Chat_on_Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=121212&color=26A5E4&logoWidth=20)](https://t.me/CURLXD)
-[![Facebook](https://img.shields.io/badge/📘_Visit_Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=121212&color=1877F2&logoWidth=20)](https://www.facebook.com/curl.xd)
-[![WhatsApp](https://img.shields.io/badge/📱_Chat_on_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=121212&color=25D366&logoWidth=20)](https://wa.me/+8801854070127)
-[![Instagram](https://img.shields.io/badge/📸_Follow_on_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=121212&color=E4405F&logoWidth=20)](https://instagram.com/_x_x_imran_x_x_)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=121212&color=26A5E4&logoWidth=20)](https://t.me/CURLXD)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=121212&color=1877F2&logoWidth=20)](https://www.facebook.com/curl.xd)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=121212&color=25D366&logoWidth=20)](https://wa.me/+8801854070127)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=121212&color=E4405F&logoWidth=20)](https://instagram.com/_x_x_imran_x_x_)
 
 # TOOLS :
 ```
