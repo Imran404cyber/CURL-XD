@@ -27,25 +27,11 @@ pip install -r requirements
 
 ```
 
-# NOTE :
-
-- **If Shows the problem when you Running the tools like :**
-```
-
-./CURL
-bash: ./CURL: /data/data/com.termux/files/usr/bin/python3.**: bad interpreter: No such file or directory
-
-```
-- **Run This**
-```
-pkg reinstall python -y
-./CURL
-
-```
-
 ![CURL-XD Banner](https://github.com/Imran404cyber/CURL-XD/blob/main/IMG-20250919-WA0039.jpg?raw=true)
 
-
+# 
+- 
+-
 
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse; width: 100%; max-width: 850px;">
