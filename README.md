@@ -7,6 +7,7 @@
 - **If any errors or problems occur while running the tool, you can contact the admins and moderators**
 
 # Contact
+-
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=121212&color=26A5E4&logoWidth=20)](https://t.me/CURLXD)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=121212&color=1877F2&logoWidth=20)](https://www.facebook.com/curl.xd)
