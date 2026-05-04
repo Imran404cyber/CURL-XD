@@ -1,11 +1,18 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Welcome+to+My+Profile;Imran+Here;Python+%7C+C%2B%2B+%7C+JS+Developer;Always+Learning+New+Things" />
+  <a href="https://www.facebook.com/curl.xd">
+  <img src="https://raw.githubusercontent.com/Imran404cyber/maintenance/main/assests/Rainbow.gif" width="100%">
+  </a>
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Welcome+to+My+Profile;Imran+Here;Python+%7C+C%2B%2B+%7C+JS+Developer;Always+Learning+New+Things" />
 </p>
+<p align="center">
+  <a href="https://www.facebook.com/curl.xd">
+  <img src="https://raw.githubusercontent.com/Imran404cyber/maintenance/main/assests/Rainbow.gif" width="100%">
+  </a>
+</p>
 
+-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Imran404cyber&show_icons=true&theme=tokyonight" />
@@ -25,11 +32,6 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,git,github,linux" />
-</p>
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Imran404cyber&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
 
 <p align="center">
