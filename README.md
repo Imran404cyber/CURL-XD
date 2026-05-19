@@ -55,9 +55,9 @@
 - **CURL Number, File, Old, Instagram Cloning Tools**
 
 # ABOUT
-- **Developer**: ImRaN
+- **Developer**: Md Imran Sheikh
 
-- **If any errors or problems occur while running the tool, you can contact the admins and moderators**
+- **If any errors or problems occur while running the tool, you can contact the admin**
 
 # Contact
 -
