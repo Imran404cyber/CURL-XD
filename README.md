@@ -52,7 +52,11 @@
 </p>
 
 # COMMAND TYPE ->
-- **CURL Number, File, Old, Instagram Cloning Tools**
+- **CURL AUTOMATION TOOLS**
+  - **Number Clone**
+  - **File Clone**
+  - **Old Clone**
+  - **Instagram**
 
 # ABOUT
 - **Developer**: Md Imran Sheikh
