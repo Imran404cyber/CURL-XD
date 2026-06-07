@@ -122,6 +122,17 @@ pip install -r requirements
   </a>
 </p>
  
+
+<p align="center">
+  <a href="https://www.binance.com/en/pay" target="_blank">
+    <img
+      src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png"
+      alt="Support Me"
+      width="220"
+    />
+  </a>
+</p> 
+
  
 <p align="center">
   <a href="https://www.facebook.com/curl.xd">
