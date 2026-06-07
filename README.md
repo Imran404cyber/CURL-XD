@@ -133,6 +133,9 @@ pip install -r requirements
   </a>
 </p> 
 
+**Binance** : **1119160907**
+**ByBit** : **560544367**
+
  
 <p align="center">
   <a href="https://www.facebook.com/curl.xd">
