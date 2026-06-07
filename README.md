@@ -122,7 +122,7 @@ pip install -r requirements
   </a>
 </p>
  
-
+# - **If you have received help from any of my projects**
 <p align="center">
   <a href="https://www.binance.com/en/pay" target="_blank">
     <img
@@ -133,8 +133,8 @@ pip install -r requirements
   </a>
 </p> 
 
-**Binance** : **1119160907**
-**ByBit** : **560544367**
+  - **Binance** : **1119160907**
+  - **ByBit** : **560544367**
 
  
 <p align="center">
