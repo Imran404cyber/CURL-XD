@@ -58,6 +58,9 @@
   - **Old Clone**
   - **Instagram**
 
+# REQUIREMENTS ->
+  - **python 3.14**
+
 # ABOUT
 - **Developer**: Md Imran Sheikh
 
