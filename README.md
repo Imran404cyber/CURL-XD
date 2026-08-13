@@ -88,13 +88,13 @@ pip install -r requirements
 ```
 
 <p align="center">
-  <img src="https://github.com/Imran404cyber/CURL-XD/blob/main/IMG-20250919-WA0039.jpg?raw=true" width="45%" />
-  <img src="https://github.com/Imran404cyber/CURL-XD/blob/main/IMG-20260410-WA0003.jpg?raw=true" width="45%" />
+  <img src="https://github.com/Imran404cyber/CURL-XD/assets/blob/main/IMG-20250919-WA0039.jpg?raw=true" width="45%" />
+  <img src="https://github.com/Imran404cyber/CURL-XD/assets/blob/main/IMG-20260410-WA0003.jpg?raw=true" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/Imran404cyber/CURL-XD/blob/main/IMG-20260519-WA0023.jpg?raw=true" width="45%" />
-  <img src="https://github.com/Imran404cyber/CURL-XD/blob/main/IMG-20260409-WA0000.jpg?raw=true" width="45%" />
+  <img src="https://github.com/Imran404cyber/CURL-XD/assets/blob/main/IMG-20260519-WA0023.jpg?raw=true" width="45%" />
+  <img src="https://github.com/Imran404cyber/CURL-XD/assets/blob/main/IMG-20260409-WA0000.jpg?raw=true" width="45%" />
 </p>
 
 
