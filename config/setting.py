@@ -1,4 +1,0 @@
-ExceptionM = "off"
-MAX_WORKER = 40
-APP_VERSION = 38.0
-DATE = "18 AUG 2026"
