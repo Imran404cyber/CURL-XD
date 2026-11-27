@@ -137,7 +137,6 @@ pip install -r requirements
 </p> 
 
   - **Binance** : **1119160907**
-  - **ByBit** : **560544367**
 
  
 <p align="center">
